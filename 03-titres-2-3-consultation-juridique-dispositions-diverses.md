@@ -1,4 +1,4 @@
-# Chapitre du commentaire 03 — Titres II et III — Consultation juridique et rédaction d'actes sous seing privé, contreseing, secret professionnel, dispositions diverses (art. 54 à 81-1)
+# Chapitre du commentaire 03 — Titres II et III — Consultation juridique et rédaction d'actes sous seing privé, contreseing, secret professionnel, dispositions diverses (art. 54 à 82)
 
 #### Titre II — Réglementation de la consultation en matière juridique et de la rédaction d'actes sous seing privé
 
@@ -92,6 +92,14 @@ L'article 58 consacre le statut fonctionnel du juriste d'entreprise. Celui-ci, l
 
 Ces trois limites — lien salarial, bénéficiaire exclusif, objet lié à l'activité — distinguent nettement le juriste d'entreprise de l'avocat. Le juriste ne peut offrir ses services à des tiers, fussent-ils clients ou partenaires de l'entreprise, sans tomber sous le coup de l'article 66-2. Il est réputé posséder la compétence juridique de l'article 54, 1°. La loi ne lui attribue pas, en revanche, le secret professionnel de l'article 66-5, réservé à l'avocat ; il reste soumis aux obligations générales de l'article 55 dans la mesure où celles-ci s'appliquent à sa situation.
 
+### Article 58-1
+
+**Texte de la disposition:**
+
+> (Non encore en vigueur : entrée en vigueur à compter du 2027-02-01)
+
+L'article 58-1 n'a pas encore de rédaction en vigueur : la source le signale comme « non encore en vigueur », avec une entrée en vigueur à compter du 1er février 2027. Il s'insérera au chapitre Ier du titre II, parmi les dispositions qui déterminent les personnes autorisées à donner des consultations juridiques et à rédiger des actes sous seing privé pour autrui, entre l'article 58, relatif aux juristes d'entreprise, et l'article 59, relatif aux professions réglementées. La version consolidée au 2 octobre 2026 ne reproduisant pas sa rédaction future, le commentaire ne peut en analyser le contenu ; il conviendra de s'y reporter à compter de son entrée en vigueur.
+
 ### Article 59
 
 **Texte de la disposition:**
@@ -119,6 +127,14 @@ La formule est plus restrictive que celle de l'article 59 (« accessoire direct 
 > Les organismes chargés d'une mission de service public peuvent, dans l'exercice de cette mission, donner des consultations juridiques.
 
 L'article 61 permet aux organismes chargés d'une mission de service public de donner des consultations juridiques dans l'exercice de cette mission. L'autorisation est fonctionnelle et limitée à la consultation, à l'exclusion de la rédaction d'actes. La compétence juridique requise par l'article 54, 1° résulte d'un agrément par arrêté pour chaque catégorie d'organismes. Une consultation étrangère à la mission de service public sortirait du champ de l'autorisation.
+
+### Article 62
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1997-04-08)
+
+L'article 62 appartenait au chapitre Ier du titre II, qui détermine les personnes et organismes autorisés à donner des consultations juridiques et à rédiger des actes sous seing privé pour autrui (articles 54 à 66-3). Il est abrogé à compter du 8 avril 1997 selon la source, qui ne précise pas le texte abrogatif et ne reproduit pas son contenu. L'énumération se poursuit à l'article 63 avec les associations reconnues d'utilité publique ou dont la mission est reconnue d'utilité publique.
 
 ### Article 63
 
@@ -202,6 +218,22 @@ L'article 66-3-1, seul article du chapitre Ier bis, institue l'acte sous seing p
 
 Le contreseing ne confère pas à l'acte la nature d'un acte authentique ; il constitue une attestation de conseil engageant la responsabilité de l'avocat et renforçant la sécurité de l'acte. Il illustre le rôle de rédacteur d'actes reconnu à l'avocat par l'article 56. L'article 81 rend le chapitre applicable à Wallis-et-Futuna et en Nouvelle-Calédonie.
 
+### Article 66-3-2
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2016-10-01 par Ordonnance n°2016-131 du 10 février 2016 - art. 6)
+
+L'article 66-3-2 se situait au chapitre Ier bis du titre II, consacré au contreseing de l'avocat, à la suite de l'article 66-3-1 qui en définit la portée. Selon la source, il est abrogé à compter du 1er octobre 2016 par l'article 6 de l'ordonnance n° 2016-131 du 10 février 2016, de même que l'article 66-3-3. Son texte n'est pas reproduit. Le chapitre Ier bis se réduit donc aujourd'hui à l'article 66-3-1, selon lequel l'avocat qui contresigne un acte sous seing privé atteste avoir éclairé pleinement la ou les parties qu'il conseille sur les conséquences juridiques de cet acte.
+
+### Article 66-3-3
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2016-10-01 par Ordonnance n°2016-131 du 10 février 2016 - art. 6)
+
+L'article 66-3-3, dernier article du chapitre Ier bis du titre II (contreseing de l'avocat), est abrogé à compter du 1er octobre 2016 par l'article 6 de l'ordonnance n° 2016-131 du 10 février 2016, selon la source. Comme l'article 66-3-2, il n'est plus reproduit que par son numéro et la mention de l'abrogation ; le commentaire ne reconstitue pas son contenu. Dans la loi, le contreseing n'est plus régi que par l'article 66-3-1.
+
 #### Chapitre II — Dispositions diverses
 
 ### Article 66-4
@@ -274,6 +306,32 @@ Le troisième alinéa impose une obligation de transparence : les avocats et les
 
 L'article 68 dispense de nouvelle prestation de serment les avocats ayant prêté serment avant l'entrée en vigueur du titre Ier de la loi n° 90-1259 du 31 décembre 1990. La formule du serment fixée par l'article 3 ayant été modifiée, la question se posait de savoir si les avocats déjà en exercice devaient s'engager à nouveau. La loi la tranche par la négative : l'engagement antérieur conserve sa force et emporte soumission aux obligations du serment actuel, notamment pour l'appréciation des manquements visés à l'article 25.
 
+### Article 69
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1990-11-28)
+
+L'article 69 appartenait au titre III, consacré aux dispositions diverses, après les articles 67 (usage du titre d'avocat accompagné d'autres mentions) et 68 (situation des avocats ayant prêté serment avant l'entrée en vigueur du titre Ier). La source le signale comme abrogé à compter du 28 novembre 1990, sans indiquer le texte abrogatif ni reproduire son contenu, que le commentaire ne reconstitue pas.
+
+### Article 70
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1992-01-01)
+
+L'article 70 du titre III est abrogé à compter du 1er janvier 1992 selon la source, qui n'en précise pas le texte abrogatif. Cette date est commune aux articles 75, 78 et 79, ainsi qu'à la péremption de l'article 63 bis. Le contenu de l'article 70 n'est pas reproduit et n'est pas commenté ; il est mentionné pour la complétude de la numérotation des dispositions diverses.
+
+### Article 71
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : CODE PENAL - art. 408 (Ab)
+
+L'article 71 est un article purement modificatif du titre III. Selon la source, il a modifié l'article 408 du code pénal, disposition signalée comme abrogée (« (Ab) ») selon les conventions de la base LEGI. La base n'attribue pas de période de vigueur à l'article 71, dont l'effet s'est épuisé dans la modification du code ; l'abrogation ultérieure de la disposition modifiée achève de le priver de toute portée actuelle. Les incriminations propres à la loi figurent aujourd'hui aux articles 72 à 74, commentés à leur place.
+
 ### Article 72
 
 **Texte de la disposition:**
@@ -305,6 +363,14 @@ L'article 74 réprime l'usurpation du titre d'avocat et des titres voisins. Est 
 Le second membre de phrase étend la répression à l'usage du titre de conseil juridique ou d'un titre équivalent pouvant prêter à confusion, la profession de conseil juridique ayant été absorbée par la profession d'avocat (art. 1er). Sont réservés les quatrième et cinquième alinéas du I de l'article 1er (mentions accompagnant le titre d'avocat et honorariat des anciens conseils juridiques) ainsi que le « troisième alinéa de l'article 95 » ; ce dernier article ne comportant plus que deux alinéas dans sa rédaction actuelle, la référence doit être appréciée au regard de la situation des professionnels bénéficiant d'un accès partiel, qui exercent sous le titre de leur État d'origine (art. 94, VI).
 
 L'article 74 complète l'article 72 : celui-ci réprime l'exercice d'activités réservées, celui-là l'usage d'un titre, indépendamment de toute activité réservée.
+
+### Article 75
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1992-01-01)
+
+L'article 75 se situait, au titre III, entre l'article 74, qui réprime l'usage illicite de certains titres, et l'article 76, clause abrogatoire générale. La source le signale comme abrogé à compter du 1er janvier 1992, sans indication du texte abrogatif ; son contenu n'est pas reproduit et le commentaire ne le reconstitue pas.
 
 ### Article 76
 
@@ -352,13 +418,37 @@ Une seconde série d'abrogations, limitée aux avoués près les tribunaux de gr
 
 Le dernier alinéa opère une substitution terminologique générale : dans toute disposition législative applicable à la date d'entrée en vigueur du titre Ier de la loi n° 90-1259, le mot « avocat » remplace les mots « conseil juridique ». La NOTA précise que cette entrée en vigueur a été fixée au 1er janvier 1992. L'article 81 écarte l'application de l'article 76 à Mayotte et à Saint-Pierre-et-Miquelon.
 
+### Article 77
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-02-12)
+
+L'article 77 appartenait au titre III (dispositions diverses), après la clause abrogatoire de l'article 76. Il est abrogé à compter du 12 février 2004 selon la source, à la même date que le chapitre V et les articles 49 et 51 du titre Ier ; le texte abrogatif n'est pas indiqué. Sa rédaction antérieure n'est pas reproduite et n'est pas commentée.
+
+### Article 78
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1992-01-01)
+
+L'article 78 du titre III est abrogé à compter du 1er janvier 1992 selon la source, comme les articles 70, 75 et 79 ; le texte abrogatif n'est pas précisé. Son contenu n'est pas reproduit. Il précède l'article 80, relatif à l'application de la loi dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, qui demeure en vigueur.
+
+### Article 79
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 1992-01-01)
+
+L'article 79 est le dernier des articles du titre III abrogés à compter du 1er janvier 1992 selon la source, qui n'indique pas le texte abrogatif et ne reproduit pas sa rédaction. Le commentaire le mentionne pour la complétude de la numérotation ; les dispositions du titre III encore en vigueur sont les articles 67, 68, 72 à 74, 76, 80, 81 et 81-1.
+
 ### Article 80
 
 **Texte de la disposition:**
 
 > La présente loi sera applicable dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, à l'exception du chapitre V de son titre Ier, et sous réserve du maintien des règles de procédure civile et d'organisation judiciaire locales.
 
-L'article 80 règle l'application de la loi dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. La loi y est applicable, à deux réserves près : le chapitre V du titre Ier en est exclu, et les règles locales de procédure civile et d'organisation judiciaire sont maintenues. Ce chapitre V ne figure plus dans le texte consolidé, de sorte que la première réserve a perdu son objet actuel.
+L'article 80 règle l'application de la loi dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle. La loi y est applicable, à deux réserves près : le chapitre V du titre Ier en est exclu, et les règles locales de procédure civile et d'organisation judiciaire sont maintenues. Ce chapitre V (« Indemnisation », articles 28 à 41 bis) est entièrement abrogé depuis le 12 février 2004, de sorte que la première réserve a perdu son objet actuel.
 
 La seconde réserve conserve une portée réelle : l'application de la loi en Alsace-Moselle ne remet pas en cause les particularités procédurales locales, ce qui peut influer sur la mise en œuvre des règles relatives à la représentation et à la postulation (art. 4 et 5). L'article 63, qui mentionne les associations dont la mission est reconnue d'utilité publique en droit local, témoigne d'une même attention au droit local. L'article 80 n'est pas applicable à Saint-Pierre-et-Miquelon (art. 81, II).
 
@@ -457,3 +547,11 @@ L'article illustre le principe de spécialité législative outre-mer : l'applic
 > L'article 14-1 est applicable à Mayotte, en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna.
 
 L'article 81-1 étend expressément l'application de l'article 14-1, relatif au financement des centres régionaux de formation professionnelle, à Mayotte, à la Nouvelle-Calédonie, à la Polynésie française et à Wallis-et-Futuna. Il complète ainsi l'article 81 en assurant que le mécanisme de contribution de la profession et de répartition par le Conseil national des barreaux fonctionne aussi dans ces territoires.
+
+### Article 82
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2012-01-01 par LOI n°2011-94 du 25 janvier 2011 - art. 33 (V))
+
+L'article 82, dernier article du titre III, est abrogé à compter du 1er janvier 2012 par l'article 33 de la loi n° 2011-94 du 25 janvier 2011, selon la source ; la mention « (V) » signale que la disposition abrogative figure dans la base LEGI comme en vigueur. Le contenu de l'article abrogé n'est pas reproduit et le commentaire ne le reconstitue pas. Le titre IV, relatif à l'exercice permanent sous le titre professionnel d'origine, s'ouvre ensuite à l'article 83.

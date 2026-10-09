@@ -1,4 +1,4 @@
-# Chapitre du commentaire 02 — Titre Ier, chapitres III, IV et VI — Discipline, responsabilité et garantie professionnelles, dispositions transitoires et diverses (art. 22 à 53)
+# Chapitre du commentaire 02 — Titre Ier, chapitres III à VI — Discipline, responsabilité et garantie professionnelles, indemnisation (abrogé), dispositions transitoires et diverses (art. 22 à 53)
 
 #### Titre Ier — Création et organisation de la nouvelle profession d'avocat
 
@@ -308,6 +308,14 @@ L'article 48 assure la continuité de la discipline lors des réformes successiv
 
 Les alinéas suivants prorogent la compétence des anciennes juridictions disciplinaires de premier degré pour les procédures pendantes et pour les faits antérieurs à l'entrée en vigueur de chaque réforme, y compris pour les procédures visant des conseils juridiques. Ces juridictions connaissent aussi des recours contre les décisions des commissions régionales statuant sur l'honorariat des conseils juridiques ayant renoncé à la nouvelle profession (voir art. 1er, I, avant-derniers alinéas). La cour d'appel et la Cour de cassation demeurent saisies des procédures pendantes devant elles. L'article 50, V complète ce dispositif pour les anciens avocats stagiaires.
 
+### Article 49
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-02-12)
+
+L'article 49 relevait du chapitre VI du titre Ier, consacré aux dispositions transitoires et diverses de la réforme de la profession d'avocat. Selon la source, il est abrogé à compter du 12 février 2004, sans indication du texte abrogatif ; sa rédaction antérieure n'est pas reproduite et n'est pas commentée. La même date d'abrogation affecte l'article 51, l'article 77 et l'ensemble du chapitre V (articles 28 à 41 bis). Le chapitre VI conserve en vigueur les articles 42 à 48, 50, 52 et 53.
+
 ### Article 50
 
 **Texte de la disposition:**
@@ -335,6 +343,14 @@ L'article 50 regroupe plusieurs dispositions transitoires relatives à l'accès 
 Le II permet aux avocats titulaires de mentions de spécialisation à l'entrée en vigueur de la loi n° 2011-331 du 28 mars 2011 de choisir, sur justification d'une pratique effective, un ou deux certificats de spécialisation figurant sur une liste fixée par arrêté ; le Conseil national des barreaux fixe les modalités. Il assure le passage à la nomenclature actuelle des spécialisations (art. 1er et 12-1).
 
 Le III autorise les anciens conseils juridiques qui exerçaient aussi comme commissaires aux comptes avant la réforme de 1990 à poursuivre cette activité, avec une incompatibilité : ils ne peuvent exercer, ni cumulativement ni successivement, pour une même entreprise ou un même groupe, les fonctions d'avocat et le mandat de commissaire aux comptes. Le IV organise la situation des élèves en formation lors de l'entrée en vigueur du titre II de la loi n° 2004-130 du 11 février 2004 : poursuite selon l'ancien régime, dispense de stage au terme de deux ans, maintien du droit de vote des stagiaires, et règles applicables en cas d'échec. Le V soumet au régime disciplinaire issu de la loi de 2004 les anciens avocats inscrits sur la liste du stage à l'époque des faits. Le VI transpose des règles comparables à Mayotte, Wallis-et-Futuna, la Polynésie française et la Nouvelle-Calédonie, par référence à l'ordonnance n° 2006-639 du 1er juin 2006. L'article 53, 12° renvoie au décret les conditions d'application de l'article.
+
+### Article 51
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-02-12)
+
+L'article 51 se situait au chapitre VI du titre Ier, entre l'article 50, qui règle la situation de certaines personnes à la date d'entrée en vigueur du titre Ier de la loi n° 90-1259, et l'article 52, relatif à la coordination des régimes de retraite. Il est abrogé à compter du 12 février 2004 selon la source, qui ne précise pas le texte abrogatif et ne reproduit pas son contenu.
 
 ### Article 52
 
@@ -391,3 +407,125 @@ L'article 53 est la disposition de renvoi au pouvoir réglementaire pour l'ensem
 L'énumération qui suit (« notamment ») détaille les matières renvoyées aux décrets en Conseil d'État : accès à la profession, incompatibilités, inscription et omission, conditions d'exercice prévues aux articles 6 à 8-1 (1°) ; code de déontologie préparé par le Conseil national des barreaux, procédure et sanctions disciplinaires (2°) ; organisation professionnelle, composition des conseils de l'ordre, élections et attributions du Conseil national des barreaux (3°) ; contrats de collaboration et de travail de l'article 7 (5°) ; procédure de contestation des honoraires (6°) ; application du IV de l'article 21 (7°).
 
 Le 9° est d'une importance pratique particulière : il renvoie aux décrets les conditions d'application de l'article 27 et les règles de maniement des fonds, effets ou valeurs reçus pour le compte des clients, qui doivent être déposés — sauf lorsque l'avocat agit comme fiduciaire — dans une caisse créée obligatoirement par chaque barreau ou par plusieurs barreaux en commun ; les produits financiers de ces fonds peuvent contribuer au financement de la formation (art. 14-1). Les 10° à 15° visent les spécialisations, les dispenses et équivalences de diplômes, l'article 50, la garantie de l'article 52, les conseils d'administration des centres de formation et les mesures d'application de la directive 77/249/CEE sur la libre prestation de services des avocats. Le 1° de l'article sert aussi de fondement à la procédure d'omission évoquée par l'article 6 ter. Les 4° et 8° sont respectivement abrogé et supprimé.
+
+#### Chapitre V — Indemnisation
+
+### Article 28
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-02-12)
+
+L'article 28 ouvre le chapitre V du titre Ier, intitulé « Indemnisation », dont la source conserve l'intitulé mais dont tous les articles (28 à 41 bis) sont abrogés à compter du 12 février 2004, sans indication du texte abrogatif. Le contenu de ces articles n'est pas reproduit et le commentaire ne le reconstitue pas. Le chapitre est présenté dans la présente édition à la suite du chapitre VI, à l'endroit où la source le place. Son abrogation prive d'objet actuel la réserve de l'article 80, qui exclut l'application du « chapitre V du titre Ier » dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
+
+### Article 29
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-02-12)
+
+L'article 29, deuxième article du chapitre V du titre Ier (« Indemnisation »), est abrogé à compter du 12 février 2004 selon la source, comme l'ensemble des articles 28 à 41 bis. La source ne précise pas le texte abrogatif et ne reproduit pas la rédaction antérieure, que le commentaire ne reconstitue pas. L'article est mentionné pour la complétude de la numérotation du titre Ier (voir le commentaire de l'article 28).
+
+### Article 30
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-02-12)
+
+L'article 30, troisième article du chapitre V du titre Ier (« Indemnisation »), est abrogé à compter du 12 février 2004 selon la source, comme l'ensemble des articles 28 à 41 bis. La source ne précise pas le texte abrogatif et ne reproduit pas la rédaction antérieure, que le commentaire ne reconstitue pas. L'article est mentionné pour la complétude de la numérotation du titre Ier (voir le commentaire de l'article 28).
+
+### Article 31
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-02-12)
+
+L'article 31, quatrième article du chapitre V du titre Ier (« Indemnisation »), est abrogé à compter du 12 février 2004 selon la source, comme l'ensemble des articles 28 à 41 bis. La source ne précise pas le texte abrogatif et ne reproduit pas la rédaction antérieure, que le commentaire ne reconstitue pas. L'article est mentionné pour la complétude de la numérotation du titre Ier (voir le commentaire de l'article 28).
+
+### Article 32
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-02-12)
+
+L'article 32, cinquième article du chapitre V du titre Ier (« Indemnisation »), est abrogé à compter du 12 février 2004 selon la source, comme l'ensemble des articles 28 à 41 bis. La source ne précise pas le texte abrogatif et ne reproduit pas la rédaction antérieure, que le commentaire ne reconstitue pas. L'article est mentionné pour la complétude de la numérotation du titre Ier (voir le commentaire de l'article 28).
+
+### Article 33
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-02-12)
+
+L'article 33, sixième article du chapitre V du titre Ier (« Indemnisation »), est abrogé à compter du 12 février 2004 selon la source, comme l'ensemble des articles 28 à 41 bis. La source ne précise pas le texte abrogatif et ne reproduit pas la rédaction antérieure, que le commentaire ne reconstitue pas. L'article est mentionné pour la complétude de la numérotation du titre Ier (voir le commentaire de l'article 28).
+
+### Article 34
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-02-12)
+
+L'article 34, septième article du chapitre V du titre Ier (« Indemnisation »), est abrogé à compter du 12 février 2004 selon la source, comme l'ensemble des articles 28 à 41 bis. La source ne précise pas le texte abrogatif et ne reproduit pas la rédaction antérieure, que le commentaire ne reconstitue pas. L'article est mentionné pour la complétude de la numérotation du titre Ier (voir le commentaire de l'article 28).
+
+### Article 35
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-02-12)
+
+L'article 35, huitième article du chapitre V du titre Ier (« Indemnisation »), est abrogé à compter du 12 février 2004 selon la source, comme l'ensemble des articles 28 à 41 bis. La source ne précise pas le texte abrogatif et ne reproduit pas la rédaction antérieure, que le commentaire ne reconstitue pas. L'article est mentionné pour la complétude de la numérotation du titre Ier (voir le commentaire de l'article 28).
+
+### Article 36
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-02-12)
+
+L'article 36, neuvième article du chapitre V du titre Ier (« Indemnisation »), est abrogé à compter du 12 février 2004 selon la source, comme l'ensemble des articles 28 à 41 bis. La source ne précise pas le texte abrogatif et ne reproduit pas la rédaction antérieure, que le commentaire ne reconstitue pas. L'article est mentionné pour la complétude de la numérotation du titre Ier (voir le commentaire de l'article 28).
+
+### Article 37
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-02-12)
+
+L'article 37, dixième article du chapitre V du titre Ier (« Indemnisation »), est abrogé à compter du 12 février 2004 selon la source, comme l'ensemble des articles 28 à 41 bis. La source ne précise pas le texte abrogatif et ne reproduit pas la rédaction antérieure, que le commentaire ne reconstitue pas. L'article est mentionné pour la complétude de la numérotation du titre Ier (voir le commentaire de l'article 28).
+
+### Article 38
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-02-12)
+
+L'article 38, onzième article du chapitre V du titre Ier (« Indemnisation »), est abrogé à compter du 12 février 2004 selon la source, comme l'ensemble des articles 28 à 41 bis. La source ne précise pas le texte abrogatif et ne reproduit pas la rédaction antérieure, que le commentaire ne reconstitue pas. L'article est mentionné pour la complétude de la numérotation du titre Ier (voir le commentaire de l'article 28).
+
+### Article 39
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-02-12)
+
+L'article 39, douzième article du chapitre V du titre Ier (« Indemnisation »), est abrogé à compter du 12 février 2004 selon la source, comme l'ensemble des articles 28 à 41 bis. La source ne précise pas le texte abrogatif et ne reproduit pas la rédaction antérieure, que le commentaire ne reconstitue pas. L'article est mentionné pour la complétude de la numérotation du titre Ier (voir le commentaire de l'article 28).
+
+### Article 40
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-02-12)
+
+L'article 40, treizième article du chapitre V du titre Ier (« Indemnisation »), est abrogé à compter du 12 février 2004 selon la source, comme l'ensemble des articles 28 à 41 bis. La source ne précise pas le texte abrogatif et ne reproduit pas la rédaction antérieure, que le commentaire ne reconstitue pas. L'article est mentionné pour la complétude de la numérotation du titre Ier (voir le commentaire de l'article 28).
+
+### Article 41
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-02-12)
+
+L'article 41 est l'avant-dernier article du chapitre V du titre Ier (« Indemnisation »). Il est abrogé, comme les articles 28 à 40 et 41 bis, à compter du 12 février 2004 selon la source, sans mention du texte abrogatif ni reproduction de son contenu. Le titre Ier ne comporte donc plus, depuis cette date, de dispositions relatives à l'indemnisation (voir le commentaire de l'article 28).
+
+### Article 41 bis
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2004-02-12)
+
+L'article 41 bis, inséré à la fin du chapitre V du titre Ier (« Indemnisation »), partage le sort de ce chapitre : il est abrogé à compter du 12 février 2004 selon la source, qui n'indique pas le texte abrogatif. Sa numérotation en « bis » révèle une insertion postérieure à la loi d'origine ; son contenu n'est pas reproduit et le commentaire ne le reconstitue pas.

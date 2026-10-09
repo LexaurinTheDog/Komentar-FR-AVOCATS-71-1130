@@ -1,6 +1,6 @@
 # Commentaire de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques
 
-> **À propos du commentaire :** le présent commentaire porte sur la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques, examinée article par article — **110 articles** dans leur rédaction consolidée en vigueur. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
+> **À propos du commentaire :** le présent commentaire porte sur la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques, examinée article par article — **140 articles** : les 110 articles en vigueur dans leur rédaction consolidée et 30 articles abrogés, périmés, purement modificatifs ou non encore en vigueur, reproduits pour que la numérotation soit complète. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
 
 ## Données de base
 
@@ -20,11 +20,11 @@ Le **titre II** (art. 54 à 66-6) réglemente la consultation juridique et la r�
 Le commentaire est réparti en quatre chapitres :
 
 1. Titre Ier, chapitres Ier et II — dispositions générales ; organisation et administration de la profession (art. 1er à 21-2) ;
-2. Titre Ier, chapitres III, IV et VI — discipline, responsabilité et garantie, dispositions transitoires et diverses (art. 22 à 53) ;
-3. Titres II et III — consultation juridique et rédaction d'actes, contreseing, secret professionnel, dispositions diverses (art. 54 à 81-1) ;
-4. Titres IV à VI — avocats de l'Union européenne et des États tiers, accès partiel (art. 83 à 107).
+2. Titre Ier, chapitres III à VI — discipline, responsabilité et garantie, indemnisation (chapitre V, abrogé), dispositions transitoires et diverses (art. 22 à 53) ;
+3. Titres II et III — consultation juridique et rédaction d'actes, contreseing, secret professionnel, dispositions diverses (art. 54 à 82) ;
+4. Titres IV à VI — avocats de l'Union européenne et des États tiers, accès partiel (art. 83 à 107), ainsi que l'article 63 bis de l'ancien titre II, périmé.
 
-La version consolidée ne reproduit que les articles en vigueur ; les numéros qui n'y figurent pas (notamment le chapitre V du titre Ier, les articles 28 à 41, 49, 51, 62, 69 à 71, 75, 77 à 79 et 82) ne sont pas commentés. Les particularités matérielles de la source (renvoi au « cinquième alinéa » à l'article 8, III, renvoi au « troisième alinéa de l'article 95 » à l'article 74, paragraphe « Art. 105.- » reproduit à la fin de l'article 104, mention du « tribunal de grande instance » dans certaines adaptations de l'article 81) sont reproduites telles quelles et signalées dans le commentaire.
+Les articles qui n'ont pas de rédaction en vigueur sont reproduits tels que la source les présente, afin que la numérotation soit complète : articles abrogés (chapitre V du titre Ier, soit les articles 28 à 41 bis, ainsi que les articles 49, 51, 62, 66-3-2, 66-3-3, 69, 70, 75, 77 à 79 et 82), article périmé (63 bis, rattaché par la source à l'ancien titre II relatif au titre de conseil juridique et présenté à la fin du commentaire), article purement modificatif (71) et article non encore en vigueur (58-1, à compter du 1er février 2027). Ils font l'objet d'un commentaire bref, qui ne reconstitue pas leur contenu antérieur ou futur ; les mentions entre parenthèses qui suivent les références (« (V) », « (Ab) ») indiquent, selon les conventions de la base LEGI, l'état actuel de la disposition citée. Les particularités matérielles de la source (renvoi au « cinquième alinéa » à l'article 8, III, renvoi au « troisième alinéa de l'article 95 » à l'article 74, paragraphe « Art. 105.- » reproduit à la fin de l'article 104, mention du « tribunal de grande instance » dans certaines adaptations de l'article 81) sont reproduites telles quelles et signalées dans le commentaire.
 
 ## Méthode
 

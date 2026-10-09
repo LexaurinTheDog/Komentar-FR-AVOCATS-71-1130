@@ -1,4 +1,4 @@
-# Chapitre du commentaire 04 — Titres IV à VI — Exercice par les avocats de l'Union européenne et des États tiers, accès partiel (art. 83 à 107)
+# Chapitre du commentaire 04 — Titres IV à VI — Exercice par les avocats de l'Union européenne et des États tiers, accès partiel (art. 83 à 107) ; article 63 bis de l'ancien titre II (périmé)
 
 #### Titre IV — Dispositions relatives à l'exercice permanent de la profession d'avocat en France par les ressortissants des Etats membres de l'Union européenne ayant acquis leur qualification dans un autre Etat membre
 
@@ -361,3 +361,15 @@ Le dernier alinéa autorise l'exercice au sein ou au nom d'une société de droi
 > Les conditions d'application du présent titre sont fixées par décret en Conseil d'Etat.
 
 L'article 107 renvoie à un décret en Conseil d'État les conditions d'application du titre VI : procédure d'autorisation devant le Conseil national des barreaux, constatation de l'équivalence des assurances (art. 101, 4°), inscription sur la liste spéciale (art. 104) et modalités des mentions professionnelles (art. 103 et 105). Il complète la série des renvois réglementaires de la loi (art. 53, 66-6 et 100), chacun propre à un titre.
+
+#### Titre II — Réglementation de l'usage du titre de conseil juridique
+
+#### Chapitre III — Dispositions transitoires et diverses
+
+### Article 63 bis
+
+**Texte de la disposition:**
+
+> (Périmé à compter du 1992-01-01)
+
+L'article 63 bis est placé par la source sous les intitulés « Titre II — Réglementation de l'usage du titre de conseil juridique » et « Chapitre III — Dispositions transitoires et diverses », c'est-à-dire dans la structure de la loi antérieure à la refonte du titre II, aujourd'hui consacré à la consultation en matière juridique. Il est signalé comme périmé à compter du 1er janvier 1992 : la source n'indique pas d'abrogation expresse mais la perte d'objet de la disposition, dont le contenu n'est pas reproduit. Il est présenté à la fin du commentaire, à la place que lui assigne la source, pour que la numérotation soit complète.
